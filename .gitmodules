@@ -1,0 +1,3 @@
+[submodule "offcanvas"]
+	path = offcanvas
+	url = https://github.com/marcoherzog/offcanvas.git
